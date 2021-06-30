@@ -1,6 +1,7 @@
 #include <Arduino.h>
 #include<Servo.h>
 
+
 //Define pins connected to Seeeduino xiao
 int servoPin = A1; 
 int LEDPin = 3; 
